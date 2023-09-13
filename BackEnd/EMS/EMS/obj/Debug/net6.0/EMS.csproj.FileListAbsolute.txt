@@ -1,0 +1,264 @@
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.exe
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.deps.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.runtimeconfig.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.pdb
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.AssemblyReference.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfoInputs.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfo.cs
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CoreCompileInputs.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS.props
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS.props
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS.props
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\scopedcss\bundle\EMS.styles.css
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CopyComplete
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\refint\EMS.dll
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.pdb
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.genruntimeconfig.cache
+C:\Users\payal\OneDrive\Desktop\EMS\BackEnd\EMS\EMS\obj\Debug\net6.0\ref\EMS.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.json
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.exe
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.deps.json
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.runtimeconfig.json
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.pdb
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.AssemblyReference.cache
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfoInputs.cache
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfo.cs
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CoreCompileInputs.cache
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS.props
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS.props
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS.props
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\scopedcss\bundle\EMS.styles.css
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CopyComplete
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\refint\EMS.dll
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.pdb
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.genruntimeconfig.cache
+C:\Users\payal\OneDrive\Desktop\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\ref\EMS.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.Development.json
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\appsettings.json
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.exe
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.deps.json
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.runtimeconfig.json
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\EMS.pdb
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Core.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Azure.Identity.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Humanizer.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.CodeDom.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Text.Json.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Employee Handler\BackEnd\EMS\EMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.AssemblyReference.cache
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfoInputs.cache
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.AssemblyInfo.cs
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CoreCompileInputs.cache
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cs
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.MvcApplicationPartsAssemblyInfo.cache
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.EMS.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.build.EMS.props
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMS.props
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMS.props
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.build.json
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\staticwebassets.development.json
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\scopedcss\bundle\EMS.styles.css
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.csproj.CopyComplete
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.dll
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\refint\EMS.dll
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.pdb
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\EMS.genruntimeconfig.cache
+D:\Employee Handler\BackEnd\EMS\EMS\obj\Debug\net6.0\ref\EMS.dll
